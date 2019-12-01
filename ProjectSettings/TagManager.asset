@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: field
+    uniqueID: 4206055509
+    locked: 0
+  - name: object
+    uniqueID: 2990786075
+    locked: 0
+  - name: character
+    uniqueID: 2967710793
+    locked: 0
